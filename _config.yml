@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: 1
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
