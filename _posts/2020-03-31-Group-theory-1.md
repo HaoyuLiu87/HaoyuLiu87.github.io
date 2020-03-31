@@ -6,9 +6,8 @@ date: 2020-03-31
 ### 1. Brief review of Linear algebra
 #### 1.1 Linear space and basis
 In linear space, given the basis $\vec{e}_{\mu}
-,\vec{e}_{\upsilon}$, 
+,\vec{e}_{\upsilon}$,  and constants $a_{\mu}, a_{\upsilon}, b_{\mu}, c$, then we have
 
-and constants $a_{\mu}, a_{\upsilon}, b_{\mu}, c$, then we have
 $$
 \begin{split}
         \vec{e}_{\mu} a_{\mu}+\vec{e}_{\upsilon} a_{\upsilon}&=\vec{e}_{\upsilon} a_{\upsilon}+\vec{e}_{\mu} a_{\mu} \\
